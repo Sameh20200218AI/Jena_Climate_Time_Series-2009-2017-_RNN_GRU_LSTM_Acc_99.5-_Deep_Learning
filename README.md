@@ -24,8 +24,7 @@ The original dataset contains **15 atmospheric features** collected over time. F
 - Sorted chronologically by `Date Time`
 - Stored as a `.csv` file and shared publicly on Kaggle for use in time series and forecasting tasks
 
-🔗 **[Kaggle Dataset Link]([https://your-kaggle-dataset-link](https://www.kaggle.com/datasets/samehraouf/jena-climate-time-series-2009-2017-dataset))**
-
+🔗 **[Kaggle Dataset Link](https://www.kaggle.com/datasets/samehraouf/jena-climate-time-series-2009-2017-dataset)**
 ---
 
 ## 🧪 Data Preparation & Processing
