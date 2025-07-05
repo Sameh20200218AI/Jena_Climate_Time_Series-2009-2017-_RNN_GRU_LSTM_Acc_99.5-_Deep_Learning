@@ -109,18 +109,9 @@ All models were evaluated using:
 
 ## 📎 Project Links
 
-- 📂 **[Kaggle Dataset](https://your-kaggle-dataset-link)**
-- 📓 **[Notebook on Kaggle](http://your-kaggle-notebook-link)**
+- 📂 **[Kaggle Dataset Link](https://www.kaggle.com/datasets/samehraouf/jena-climate-time-series-2009-2017-dataset)**
+- 📓 **[Notebook on Kaggle](https://www.kaggle.com/code/samehraouf/jena-climate-time-series-rnn-gru-lstm-acc-99-5)**
 
----
-
-## 🚀 How to Run
-
-```bash
-1. Clone the repository
-2. Install dependencies from requirements.txt
-3. Run the notebook or script
-```
 
 ---
 
@@ -132,4 +123,4 @@ All models were evaluated using:
 
 ---
 
-> Built and published with 💙 by [Your Name]
+> Built and published with 💙 by [Sameh_Raouf]
